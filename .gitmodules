@@ -1,0 +1,3 @@
+[submodule "lib/PyEMD"]
+	path = lib/PyEMD
+	url = https://github.com/laszukdawid/PyEMD.git
